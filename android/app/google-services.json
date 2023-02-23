@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59732750755",
+    "project_id": "masrofat-df8d4",
+    "storage_bucket": "masrofat-df8d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59732750755:android:7ffd6ba96f45e1eac7aa16",
+        "android_client_info": {
+          "package_name": "com.nadersakr.masrofat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59732750755-en54a84lp08c8il086j0u9cafi0i71ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1JPwMklS7GSTruxeECeJTji5QdJa55U8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59732750755-en54a84lp08c8il086j0u9cafi0i71ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
